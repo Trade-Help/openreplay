@@ -24,7 +24,7 @@
     "immutable": "^4.0.0-rc.12",
     "jsbi": "^4.1.0",
     "jshint": "^2.11.1",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "mobx": "^6.3.8",
     "mobx-react-lite": "^3.1.6",
     "moment": "^2.27.0",
